@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/tsaglam/">
-        <img src="https://github-readme-stats.vercel.app/api?username=tsaglam&count_private=true&show_icons=true&theme=vue&bg_color=27282200&text_color=6c7884&hide_rank=false&line_height=30&show=reviews" />
+        <img src="https://github-readme-stats.vercel.app/api?username=tsaglam&count_private=true&show_icons=true&theme=vue&bg_color=27282200&text_color=6c7884&hide_rank=true&line_height=30&show=reviews" />
     </a>
     <a href="https://github.com/tsaglam/">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsaglam&theme=vue&bg_color=27282200&text_color=6c7884&hide_title=true&show_icons=true&langs_count=10&hide=c,makefile,python,shell&line_height=29" />
